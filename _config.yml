@@ -1,17 +1,17 @@
 future: true
 permalink: /:title/
-url: http://pmlpml.github.io
-name: Pan Sir
-author: Sir Pan
-qq: yourqq
-email: yourmail@mail2.sysu.edu.cn
+url: guoxiongfeng.github.io
+name: Guoxf
+author: Guoxf
+qq: 530416041
+email: Secret
 
 duoshuo: yourname
-beian: 
-cnzz: 
-weibo: 
-github: yourID
-about: "这里是 Your 的个人博客，创建于 20xx 年。"
+beian: None
+cnzz: None
+weibo: None
+github: guoxiongfeng
+about: "这里是 guoxiongfeng 的个人博客，创建于 2018 年。"
 
 safe: true
 paginate: 20

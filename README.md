@@ -1,2 +1,1 @@
-# Pan Sir's Pages(pmlpml.github.io)
- (pmlpml.github.io)
+# My GH-Page based on Jskyll.
